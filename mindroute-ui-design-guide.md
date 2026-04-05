@@ -21,7 +21,7 @@ This document provides visual representations and design specifications for all 
 **File**: `app/pages/mindroute/page.tsx`
 
 ### Desktop View
-![Homepage Desktop](https://raw.githubusercontent.com/sidkr222003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/homepage_desktop.png)
+![Homepage Desktop](https://raw.githubusercontent.com/sidkr222003/AI_ROADMAP_GENERATOR_DOCUMENTATION/main/UI_IMAGES/homepage_desktop.png)
 
 
 ### Layout Structure
@@ -290,15 +290,15 @@ Node Anatomy:
 **File**: `_components/tab-navigation.tsx`
 
 ### Courses Section - Desktop View
-![Courses Section Desktop](https://raw.githubusercontent.com/sidkr222003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/courses_section_desktop.png)
+![Courses Section Desktop](https://raw.githubusercontent.com/sidkr222003/AI_ROADMAP_GENERATOR_DOCUMENTATION/main/UI_IMAGES/courses_section_desktop.png)
 
 
 ### Projects Section - Desktop View
-![Projects Section Desktop](https://raw.githubusercontent.com/sidkr222003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/projects_section_desktop.png)
+![Projects Section Desktop](https://raw.githubusercontent.com/sidkr222003/AI_ROADMAP_GENERATOR_DOCUMENTATION/main/UI_IMAGES/projects_section_desktop.png)
 
 
 ### FAQ Section - Desktop View
-![FAQ Section Desktop](https://raw.githubusercontent.com/sidkr222003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/faq_section_desktop.png)
+![FAQ Section Desktop](https://raw.githubusercontent.com/sidkr222003/AI_ROADMAP_GENERATOR_DOCUMENTATION/main/UI_IMAGES/faq_section_desktop.png)
 
 
 ### Tab Bar Design
@@ -356,11 +356,11 @@ FAQ Tab:
 **File**: `_components/HierarchyModal.tsx`
 
 ### Node Click Modal - Desktop View
-![Node Click Modal Desktop](https://raw.githubusercontent.com/sidkr222003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/node_click_modal_desktop.png)
+![Node Click Modal Desktop](https://raw.githubusercontent.com/sidkr222003/AI_ROADMAP_GENERATOR_DOCUMENTATION/main/UI_IMAGES/node_click_modal_desktop.png)
 
 
 ### Project Click Interaction - Desktop View
-![Project Section Click Desktop](https://raw.githubusercontent.com/sidkr222003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/project_section_click_desktop.png)
+![Project Section Click Desktop](https://raw.githubusercontent.com/sidkr222003/AI_ROADMAP_GENERATOR_DOCUMENTATION/main/UI_IMAGES/project_section_click_desktop.png)
 
 
 ### Tree Navigation Features
@@ -376,7 +376,7 @@ FAQ Tab:
 **File**: `_components/LoadingStatus.tsx`
 
 ### Loading Screen Interface
-![Loading Screen](https://raw.githubusercontent.com/sidkr222003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/loading_screen.png)
+![Loading Screen](https://raw.githubusercontent.com/sidkr222003/AI_ROADMAP_GENERATOR_DOCUMENTATION/main/UI_IMAGES/loading_screen.png)
 
 ### Progressive Loading Design
 ```
@@ -509,7 +509,7 @@ Accent Colors:
 ## Content Page Layouts
 
 ### Desktop Content Page
-![Content Page Desktop](https://raw.githubusercontent.com/sidkr222003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/content_page_desktop.png)
+![Content Page Desktop](https://raw.githubusercontent.com/sidkr222003/AI_ROADMAP_GENERATOR_DOCUMENTATION/main/UI_IMAGES/content_page_desktop.png)
 
 
 ---
@@ -517,36 +517,36 @@ Accent Colors:
 ## Project Tab Sections
 
 ### Prerequisites Section
-![Prerequisites Section](https://raw.githubusercontent.com/sidkr222003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/prereq_section.png)
+![Prerequisites Section](https://raw.githubusercontent.com/sidkr222003/AI_ROADMAP_GENERATOR_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/prereq_section.png)
 
 ### Skills Required Section
-![Skills Required Section](https://raw.githubusercontent.com/sidkr222003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/skill_required_section.png)
+![Skills Required Section](https://raw.githubusercontent.com/sidkr222003/AI_ROADMAP_GENERATOR_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/skill_required_section.png)
 
 ### Key Concepts Section
-![Key Concepts Section](https://raw.githubusercontent.com/sidkr222003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/key_concept_section.png)
+![Key Concepts Section](https://raw.githubusercontent.com/sidkr222003/AI_ROADMAP_GENERATOR_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/key_concept_section.png)
 
 ### Learning Outcomes Section
-![Learning Outcomes Section](https://raw.githubusercontent.com/sidkr222003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/learning_outcomes_section.png)
+![Learning Outcomes Section](https://raw.githubusercontent.com/sidkr222003/AI_ROADMAP_GENERATOR_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/learning_outcomes_section.png)
 
 ### Tools Section
-![Tools Section](https://raw.githubusercontent.com/sidkr222003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/tools_section.png)
+![Tools Section](https://raw.githubusercontent.com/sidkr222003/AI_ROADMAP_GENERATOR_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/tools_section.png)
 
 ### Folder Structure Section
-![Folder Structure Section](https://raw.githubusercontent.com/sidkr222003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/folder_structure_section.png)
+![Folder Structure Section](https://raw.githubusercontent.com/sidkr222003/AI_ROADMAP_GENERATOR_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/folder_structure_section.png)
 
 ### Prototype Section
-![Prototype Section](https://raw.githubusercontent.com/sidkr222003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/prototype_section.png)
+![Prototype Section](https://raw.githubusercontent.com/sidkr222003/AI_ROADMAP_GENERATOR_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/prototype_section.png)
 
 ### Checklist Section
-![Checklist Section](https://raw.githubusercontent.com/sidkr222003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/checklist_section.png)
+![Checklist Section](https://raw.githubusercontent.com/sidkr222003/AI_ROADMAP_GENERATOR_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/checklist_section.png)
 
 ### Test Cases Section
-![Test Cases Section](https://raw.githubusercontent.com/sidkr222003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/Test_cases_section.png)
+![Test Cases Section](https://raw.githubusercontent.com/sidkr222003/AI_ROADMAP_GENERATOR_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/Test_cases_section.png)
 
 ### Extensions Section
-![Extensions Section](https://raw.githubusercontent.com/sidkr222003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/extensions_section.png)
+![Extensions Section](https://raw.githubusercontent.com/sidkr222003/AI_ROADMAP_GENERATOR_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/extensions_section.png)
 
 ### Deployment Guide Section
-![Deployment Guide Section](https://raw.githubusercontent.com/sidkr222003/MINDROUTE_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/deployment_guide_section.png)
+![Deployment Guide Section](https://raw.githubusercontent.com/sidkr222003/AI_ROADMAP_GENERATOR_DOCUMENTATION/main/UI_IMAGES/Project_tab_sections/deployment_guide_section.png)
 
 This comprehensive UI design guide provides all the visual specifications needed to understand and implement the MindRoute interface components.
